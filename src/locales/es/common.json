@@ -1,0 +1,156 @@
+{
+  "title": "Ingeniero de Software - Oscar Juárez",
+  "description": "",
+  "navbar": [
+    {
+      "label": "Inicio",
+      "href": "#top"
+    },
+    {
+      "label": "Experiencia",
+      "href": "#experiencia-laboral"
+    },
+    {
+      "label": "Sobre mí",
+      "href": "#sobre-mi"
+    }
+  ],
+  "hero": {
+    "job_availability": "¡Disponible para trabajar!",
+    "title": "¡Hola soy Oscar Juárez!",
+    "job_title": "<strong>Ingeniero de Software</strong> de Puebla, MX.",
+    "description": "",
+    "cta": "Contactame",
+    "cv": "Ver CV"
+  },
+  "experience": {
+    "title": "Experiencia laboral",
+    "jobs": {
+      "jobs_title": ["Global Denim", "Coshmex Microsystems"],
+      "jobs_description": [
+        {
+          "title": "Ingeniero C#",
+          "time": ["Abr 2024", "Actual"],
+          "description": "Con experiencia en la implementación y soporte de aplicaciones tanto REST como de escritorio, he trabajado en la estructuración de modelos de negocio en software mediante el uso de capas de servicio, optimizando así la eficiencia y la escalabilidad del sistema. He gestionado y administrado bases de datos SQL, y he colaborado con diferentes áreas para asegurar el cumplimiento de tareas y estándares de calidad. Además, he realizado mantenimiento y mejoras en proyectos de escritorio, adaptando funcionalidades a los requisitos específicos de la empresa.",
+          "list": [
+            "Implementación y soporte de aplicaciones REST y de escritorio",
+            "Uso de capas de servicio para implementar modelos de negocio",
+            "Desarrollo con tecnologías como C#, .NET, ASP.NET Core, Entity Framework Core",
+            "Pruebas unitarias con xUnit",
+            "Creación y gestión de bases de datos SQL, incluyendo Stored Procedures y Triggers",
+            "Administración de bases de datos en SQL Server Management Studio",
+            "Colaboración efectiva con áreas de producción para cumplir con tareas y mantener la calidad",
+            "Mantenimiento y mejora de funcionalidades en proyectos de Visual Basic"
+          ]
+        },
+        {
+          "title": "Desarrollador Fullstack",
+          "time": ["May 2022", "Mar 2024"],
+          "description": "He participado en proyectos que abarcan desde la implementación de arquitecturas y servicios hasta la optimización de bases de datos y el despliegue en entornos escalables. Mi enfoque ha estado en garantizar la eficiencia y la calidad en cada fase del ciclo de vida de desarrollo, colaborando estrechamente con equipos multidisciplinarios para cumplir objetivos y mantener altos estándares de rendimiento y confiabilidad.",
+          "list": [
+            "Desarrollo y mantenimiento de aplicaciones REST y SOAP",
+            "Manejo de transacciones y objetos de transferencia de datos (DTOs)",
+            "Implementación de lógica de negocio con Java, Spring Boot, Spring Batch, Maven y JUnit",
+            "Creación y gestión de bases de datos SQL: Stored Procedures y Triggers",
+            "Migración de componentes locales a la nube para mejorar rendimiento y escalabilidad",
+            "Creación y despliegue de contenedores Docker",
+            "Trabajo en equipo y colaboración efectiva para cumplir plazos y mantener estándares de calidad",
+            "Implementación de pruebas de estrés y unitarias",
+            "Diseño de sitios web",
+            "Optimización de sitios web"
+          ]
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "projects": [
+      {
+        "title": "Estelí Buses",
+        "description": "La primer plataforma para conocer los horarios de las terminales de autobuses interlocales del municipio de Estelí, Nicaragua.",
+        "image": "/src/images/projects/esteli-buses-project.jpg",
+        "techs": ["Astro", "TailwindCSS", "Firebase", "PWA"],
+        "code": "Código",
+        "preview": "Vista previa"
+      },
+      {
+        "title": "Portafolio UX Ana Rangel",
+        "description": "Lorem ipsum dolor sit amet consectetur. Faucibus quis sociis at sagittis egestas sed volutpat. Arcu pellentesque elit volutpat quam. Id dictum sagittis hendrerit diam viverra velit. Blandit id viverra quis lectus faucibus egestas ipsum turpis.",
+        "image": "/src/images/projects/ana-rangel-portafolio.jpg",
+        "techs": ["Astro", "CSS", "SASS", "Open Props", "TypeScript"],
+        "code": "Código",
+        "preview": "Vista previa"
+      },
+      {
+        "title": "Calculadora Payoneer Nicaragua",
+        "description": "Descubre una herramienta esencial para freelancers y negocios en Nicaragua. Nuestra Calculadora Payoneer Nicaragua te permite calcular de manera precisa y rápida las tarifas y comisiones al recibir pagos internacionales a través de Payoneer. ¡Empieza a usarla hoy y toma el control de tus finanzas!",
+        "image": "/src/images/projects/calculadora-payoneer-project.jpg",
+        "techs": [
+          "Astro",
+          "TailwindCSS",
+          "React",
+          "TypeScript",
+          "PWA",
+          "Firebase"
+        ],
+        "code": "Código",
+        "preview": "Vista previa"
+      }
+    ]
+  },
+  "contributions": {
+    "title": "Contribuciones",
+    "contributions": [
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repositorio",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repositorio",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
+        "repo": "#",
+        "repo_label": "Repositorio",
+        "commits": "#"
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre mí",
+    "subtitle": "",
+    "description": "Conocimiento en la creación y desarrollo de aplicaciones tanto en el lado del backend con tecnologías como  Java, Spring Boot, C#, .NET como el frontend con Blazor y Vue.js, experiencia trabajando con bases de datos SQL como MySQL, PostgreSQL y SQL Server integrando Stored Procedures, Triggers, asi como manejo de Docker para el desarrollo e implementación. \n Me entusiasma conocer y aportar en avances tecnológicos y estoy constantemente buscando nuevos desafíos para mejorar mis habilidades y conocimientos en el desarrollo de software así como del área de TI en general. Me gusta entregar soluciones de calidad y trabajar en equipo para alcanzar el éxito del proyecto."
+  },
+  "contact": {
+    "title": "¿Listo para dar vida a tus ideas?",
+    "subtitle": "Puedo impulsar tu proyecto o formar parte de tu equipo"
+  },
+  "footer": {
+    "designed": {
+      "designed_with": "",
+      "designed_by": ""
+    },
+    "developed": {
+      "developed_with": "Hecho con",
+      "developed_by": "por"
+    }
+  }
+}
