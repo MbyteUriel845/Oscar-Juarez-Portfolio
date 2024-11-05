@@ -21,7 +21,8 @@
     "job_title": "<strong>Ingeniero de Software</strong> de Puebla, MX.",
     "description": "",
     "cta": "Contactame",
-    "cv": "Ver CV"
+    "cv": "Ver CV",
+    "pathcv":"/media/CV Oscar Juarez.pdf"
   },
   "experience": {
     "title": "Experiencia laboral",

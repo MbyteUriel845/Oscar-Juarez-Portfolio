@@ -8,7 +8,8 @@ const {
   title,
   job_title: jobTitle,
   description,
-  cv
+  cv,
+  pathcv
   // cta
 } = t('hero', {
   returnObjects: true
@@ -28,8 +29,8 @@ const {
     </section>
     <section class="button-container">
       <!-- <Button class="filled" href="#">{cta}</Button> -->
-      <Button href="#">
-        <Icon name="linkedin" size={24} />
+      <Button href={pathcv}>
+        <Icon name="link" size={24} />
         <span>{cv}</span>
       </Button>
     </section>
